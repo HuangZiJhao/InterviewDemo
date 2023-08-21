@@ -1,14 +1,11 @@
-# TestVue
+# Vue Composition API 以口罩地圖為例
+主要是嘗試使用Vite + Vue 來做開發，寫法是使用Vue 3 新增的 script setup ，
+其寫法大大的增加程式碼的可讀性，在撰寫上也較為直覺。
 
-This template should help get you started developing with Vue 3 in Vite.
+專案主題是使用其他網友開源的API抓取各縣市診所的口罩預約資訊，並透過leaflet開源地圖來呈現地標。
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+其使用到的套件有Vuex、axios、Leaflet 。
 
 ## Project Setup
 
